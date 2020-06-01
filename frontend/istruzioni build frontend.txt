@@ -1,0 +1,3 @@
+Per frontend
+g build --prod
+Produco i file dento alla cartella dist, i quali poi andranno caricati all’interno di Amazon service

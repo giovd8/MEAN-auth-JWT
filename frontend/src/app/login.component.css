@@ -1,0 +1,17 @@
+.example-form {
+  min-width: 150px;
+  max-width: 500px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.example-full-width {
+  width: 100%;
+}
+
+button {
+  float: right;
+  clear: both;
+  /* position: absolute;
+  right: 3em; */
+}
